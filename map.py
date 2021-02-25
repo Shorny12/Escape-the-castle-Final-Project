@@ -2,6 +2,7 @@ import enemies
 import sys
 import items
 
+
 # creat a class for Map
 class Map:
     """ Map with x and y coordinates"""
