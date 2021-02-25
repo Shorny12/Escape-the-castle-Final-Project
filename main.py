@@ -1,8 +1,8 @@
-# Classes
+# Final Project
 # Zhixiang Wang
 # CS 30 AM class
 # Date Created: February 24, 2021
-# Date Modified: February 24, 2021
+# Date Modified: February 25, 2021
 
 from player import Player
 import map
