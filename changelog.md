@@ -19,3 +19,7 @@ All notable changes to this project will be recorded with the date of edition.
 
 ### Updated
 - main.py
+
+## [Version 3.0] - 2021/02/25
+### Updated
+- Main.py Fixed some format error and make sure all codes are working
